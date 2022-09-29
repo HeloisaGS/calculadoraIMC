@@ -1,4 +1,3 @@
-#Para limpar terminal usar cls e enter
 #Calcular IMC de acordo com a fórmula
 #IMC = peso/(altura*altura)
 #Abaixo do peso quando for menos de 18,5kg/m2;
